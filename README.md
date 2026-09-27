@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi, I'm Hossein Tajdini</h1>
 
 <p align="center">
@@ -67,4 +66,4 @@ Real-time smart surveillance pipeline combining motion detection with YOLO-based
   &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/htj/">LinkedIn</a>
 </p>
-```
+
