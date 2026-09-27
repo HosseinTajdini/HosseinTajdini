@@ -2,62 +2,39 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Engineer;PyTorch+%7C+Computer+Vision+%7C+NLP;Building+practical+AI+systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Junior+AI+%2F+Machine+Learning+Engineer;PyTorch+%7C+Computer+Vision+%7C+NLP;Exploring+RAG+%26+LLM+Applications" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-Computer Engineering student focused on Machine Learning, Deep Learning and practical AI systems.
+Computer Engineering student focused on building practical AI and machine learning systems.
 </p>
-
----
-
-### About Me
-
-- Building projects with **Python**, **PyTorch** and modern ML tools
-- Interested in **LLMs**, **RAG**, **NLP** and **Computer Vision**
-- Experience with model training, evaluation and inference APIs
-- Currently improving my skills in production-ready AI systems
 
 ### Tech Stack
 
-**AI / ML**
-
-`PyTorch` `Scikit-learn` `CNN` `LSTM` `Transfer Learning` `RAG`
-
-**Computer Vision / NLP**
-
-`OpenCV` `YOLO` `NLP` `Image Classification` `Segmentation`
-
-**Engineering**
-
-`Python` `FastAPI` `Docker` `Git` `NumPy` `Pandas`
+`Python` `PyTorch` `Scikit-learn` `NumPy` `Pandas`  
+`OpenCV` `YOLOv8` `CNN` `LSTM` `Transfer Learning`  
+`FastAPI` `Docker` `Git` `RAG` `NLP`
 
 ### Selected Projects
 
 #### Persian Sentiment Analysis
-Persian sentiment classification using an LSTM model trained on ~52K reviews.
 
-- PyTorch
-- FastAPI inference API
-- Dockerized training and serving
-- 83.2% test accuracy
+LSTM-based Persian sentiment classifier trained on ~52K reviews, reaching **83.2% test accuracy** and served through a FastAPI inference API.
 
-[View Project](https://github.com/HosseinTajdini/sentiment-analysis-ml)
+`PyTorch` `LSTM` `FastAPI` `Docker`
+
+[View Repository](https://github.com/HosseinTajdini/sentiment-analysis-ml)
 
 #### Smart Motion Alert
-Real-time smart surveillance pipeline combining motion detection with YOLO-based person detection.
 
-- OpenCV
-- YOLOv8
-- Real-time video processing
-- Configurable detection pipeline
+Real-time computer vision pipeline combining OpenCV motion detection with YOLOv8-based person detection for smarter alerts.
 
-[View Project](https://github.com/HosseinTajdini/smart-motion-alert)
+`Python` `OpenCV` `YOLOv8`
 
----
+[View Repository](https://github.com/HosseinTajdini/smart-motion-alert)
 
-### Currently Exploring
+### Current Focus
 
 `Retrieval-Augmented Generation` • `LLM Applications` • `AI Engineering`
 
@@ -66,4 +43,3 @@ Real-time smart surveillance pipeline combining motion detection with YOLO-based
   &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/htj/">LinkedIn</a>
 </p>
-
